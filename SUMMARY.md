@@ -1,3 +1,3 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [About Cloud Firestore](chapter1.md)
